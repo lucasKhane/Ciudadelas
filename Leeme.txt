@@ -1,0 +1,8 @@
+Juego ciudadelas:
+
+- Plataforma (PL)
+- Interfaz de usuario (IU)
+- Inteligencia artificial (IA)
+
+De momento el juego lo probaremos en local
+PD: ¿Esto se le podra vender a alguien? ¿O solo vale para no entretenerme? ¿O me denunciarán por inflingir derechos de autor? (esto tendría cierta gracia)
