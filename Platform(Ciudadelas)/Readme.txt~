@@ -125,9 +125,27 @@ meteor remove insecure
 
 Lo dejamos ya así, que como no somos tontos, seguro que lo hacemos fantásticamente.
 
+Solo cuidado porque si coges codigo de tu otra plataforma, puede que te pidas cosas como estar registrado y cosas así. Bueno, y que necesitas llamar a metodos para acceder a algunas cosas. Lo vas mirando.
+
 10.- PUBLISH AND SUBSCRIBE
 
-11.- NEXT STEPS
+Just like with insecure in the last step, all new Meteor apps start with the autopublish package. Let's remove it and see what happens:
 
+meteor remove autopublish
+
+When the app refreshes, the task list will be empty. Without the autopublish package, we will have to specify explicitly what the server sends to the client. The functions in Meteor that do this are Meteor.publish and Meteor.subscribe.
+
+Esto de la seguridad es lo que menos caña le di en su dia. Acabo de ver que hay metodos para hacer cosas privadas o parcialmente privadas.
+En algun momento tendre que revisarlo, pero no es el dia.
+
+11.- NEXT STEPS
+Guia completa : http://guide.meteor.com/
+Documentacion: http://docs.meteor.com/#/basic/
+Herramientas: https://www.meteor.com/tools
+Y recursos: https://www.meteor.com/tools/resources
+Para integrar en la aplicaciones en las que use Meteor
+
+EMPEZANDO:
+0.- Si faltan letras en la documentación, concretamente la "e", la "f", o la "g", es que el teclado a veces se las come. El pobre hace lo que puede
 
 

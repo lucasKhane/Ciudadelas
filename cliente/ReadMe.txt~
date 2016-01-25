@@ -1,0 +1,9 @@
+cliente.js
+-Como funciona el cliente desde el punto de vista de la plataforma.
+-Que se activa o que se ve cuando cliqueo tal o cual
+-Y tiene que llamar en algun momento para que se inicie el juego
+
+engine.js (Esta parte la hizo otro grupo. Debo cambiarlo pues es caos)
+-
+
+game.js (Esta parte la hizo otro grupo. Debo cambiarlo pues es caos)

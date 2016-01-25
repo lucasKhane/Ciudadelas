@@ -145,5 +145,8 @@ Herramientas: https://www.meteor.com/tools
 Y recursos: https://www.meteor.com/tools/resources
 Para integrar en la aplicaciones en las que use Meteor
 
+EMPEZANDO:
+0.- Si faltan letras en la documentación, concretamente la "e", la "f", o la "g", es que el teclado a veces se las come. El pobre hace lo que puede
+1.- Voy simplemente a dejar un botoncete de inicia algo, aunqu hay cosas que mereza la pena recuperar, como los crear partida, las salas de espera y etc etc.
 
 

@@ -1,1 +1,19 @@
-/* CSS declarations go here */
+body {
+	border: 3px solid black;
+}
+
+#globalbox {
+	border: 1px solid red;
+}
+
+#boton_que_hace_cosas {
+	border: 1px solid purple;
+}
+
+#container_principal {
+	border: 1px solid blue;
+}
+
+#pie {
+	border: 1px solid green;
+}

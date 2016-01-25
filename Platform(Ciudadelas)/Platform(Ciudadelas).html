@@ -1,14 +1,21 @@
 <head>
-  <title>Platform(Ciudadelas)</title>
+	<title>Ciudadelas</title>
 </head>
 
 <body>
-  <h1>Welcome to Meteor!</h1>
-
-  {{> hello}}
+	<div id="globalbox">
+		<div id="boton_que_hace_cosas">
+		</div>
+	
+		<div id="container_principal">
+			{{> carcassone}}
+		</div>
+		
+		<div id="pie">
+		</div>
+	</div>
 </body>
 
-<template name="hello">
-  <button>Click Me</button>
-  <p>You've pressed the button {{counter}} times.</p>
+<template name="carcassone">
+	<canvas id='gameC'  width='1150' height='600'></canvas>
 </template>
